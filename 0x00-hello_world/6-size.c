@@ -1,8 +1,8 @@
 #include<stdio.h>
 /**
-*main: Entry point
+*main-entry point for the program.
 *
-*Retrun: zero if there's no error, Non- zero if error.
+*Retrun:0 if no errors, return non zero if errors.
 */
 int main(void)
 {
