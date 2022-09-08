@@ -4,7 +4,7 @@
 *
 *Retrun:0 if no errors, return non zero if errors.
 */
-int main(void)
+int main()
 {
 int a;
 long int b;
