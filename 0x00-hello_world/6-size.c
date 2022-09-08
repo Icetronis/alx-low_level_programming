@@ -2,7 +2,7 @@
 /**
 *main is the entry point for program.
 *
-*Retrun 0 if no error, Non-0 if errors.
+*Retrun zero if there's no error, Non- zero if error.
 */
 int main(void)
 {
