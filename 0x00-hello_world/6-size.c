@@ -1,10 +1,10 @@
 #include<stdio.h>
 /**
 *main-entry point for the program.
-*
+*Description: if program EXIT_SUCCESS then 0 is retuned to main, EXIT_FAILURE non 0 is retuned to main.
 *Retrun:0 if no errors, return non zero if errors.
 */
-int main()
+int main(void)
 {
 int a;
 long int b;
