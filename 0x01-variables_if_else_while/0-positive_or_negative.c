@@ -1,6 +1,6 @@
 #include<stdio.h>
-#include<stdio.h>
-#include<time.h>
+#include<time.h> 
+#include<stdlib.h>
 /**
 *main - prints a random number and states whether 
 *it is positive, negative or zero.
@@ -9,6 +9,7 @@
 */
 int main(void)
 {
+int n;
 srand(time(0));
 n = rand() - RAND_MAX / 2;
 /*my code*/
