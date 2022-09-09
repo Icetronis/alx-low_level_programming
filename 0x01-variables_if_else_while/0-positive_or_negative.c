@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<time.h> 
+#include<time.h>
 #include<stdlib.h>
 /**
 *main - prints a random number and states whether 
