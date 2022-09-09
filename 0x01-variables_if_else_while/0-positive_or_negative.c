@@ -1,9 +1,10 @@
-#include<stdio.h>
-#include<time.h>
-#include<stdlib.h>
-/***main-prints a random number and states whether.
-*it is positive, negative or zero.
-*Return: Always 0.
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+/**
+*main - Entry point
+*Description: print value of n satus; zero, positive or negative
+*Return: Always 0 (Success)
 */
 int main(void)
 {
