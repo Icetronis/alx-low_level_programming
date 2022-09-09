@@ -1,7 +1,7 @@
 #include<stdio.h>
 /**
-*main - prints the letter of the alphabets in lower case
-*it is done while returning zero to main.
+*main - Entry point
+*Description: print all alphabet letters
 *Reaturn: Always 0.
 */
 int main(void)
