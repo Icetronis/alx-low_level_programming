@@ -1,16 +1,17 @@
-#include<stdio.h>
+#include <stdio.h>
+#include <stdlib.h>
 /**
-*main - Entry point
-*Description: print all alphabet letters
-*Reaturn: Always 0.
+*main - main block
+*Description: Get a random number and check its last digit, compare it with 5
+*Return: 0
 */
 int main(void)
 {
-char ch = 'a';
-while(ch <= 'z');
+char c = 'a';
+while (c <= 'z')
 {
-putchar(ch);
-++ch;
+putchar(c);
+c++;
 }
 putchar('\n');
 return (0);
