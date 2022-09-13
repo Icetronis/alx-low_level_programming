@@ -3,7 +3,7 @@
 *main - prints the alphabets in lowercase
 *Return: 0 always
 */
-int main(void) 
+void print_alphabet(void) 
 {
 char c= 'a';
 while (c<= 'z')
