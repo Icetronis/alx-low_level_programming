@@ -2,7 +2,7 @@
 /**
 *print_sign - function to check for the sign of a number
 *@n: is the int that will use for the argument of the function
-*Retrun: 0 
+*Retrun: 0
 */
 int print_sign(int n)
 {
