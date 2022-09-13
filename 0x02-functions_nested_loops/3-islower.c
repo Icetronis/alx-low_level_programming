@@ -1,12 +1,12 @@
 #include "main.h"
 /**
-_islower - function checks lowercasae character
+_islower - function to check for lowercasae character
 *@c: the int that will be used for the arguement of the function
 *Return: 0
 */
-int_islower(int c)
+int _islower(int c)
 {
-if (c >= 'a' && c <== 'z')
+if (c >= 'a' && c <= 'z')
 {
 return (1);
 }
