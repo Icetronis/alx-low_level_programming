@@ -4,7 +4,7 @@
 *@n: is the int that will use for the argument of the function
 *Retrun: 0
 */
-int Print_sign(int n)
+int print_sign(int n)
 {
 if (n > 0)
 {
