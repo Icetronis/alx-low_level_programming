@@ -1,8 +1,8 @@
 #include "main.h"
 /**
-*Print_sign - function to check for the sign of a number
+*print_sign - function to check for the sign of a number
 *@n: is the int that will use for the argument of the function
-*Retrun: 0 always
+*Retrun: 0 
 */
 int print_sign(int n)
 {
