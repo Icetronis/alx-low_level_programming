@@ -1,10 +1,9 @@
 #include "main.h"
 /**
-*main - prints the alphabets in lowercase
+*print_alphabet - prints the abc
 *Return: 0 always
 */
-void
-print_alphabet(void) 
+void print_alphabet(void) 
 {
 char c = 'a';
 while (c <= 'z')
