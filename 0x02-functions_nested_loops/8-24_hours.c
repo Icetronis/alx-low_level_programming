@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*jack_bauer - function that prints evry minute of the day of Jack Baue*r, starting from 00:00 to 23:59, min loop counts mins, whilw hour loo*p counts hours and resets mins
+*jack_bauer - function that prints evry minute of the day of Jack Baue*r, starting from 00:00 to 23:59
 *Return: 0
 */
 void jack_bauer(void)
