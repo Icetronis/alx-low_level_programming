@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*jack_bauer - function that prints evry minute of the day of Jack Bauer, starting from 00:00 to 23:59, min loop counts mins, whilw hour loopcounts hours and resets mins
+*jack_bauer - function that prints evry minute of the day of Jack Baue*r, starting from 00:00 to 23:59, min loop counts mins, whilw hour loo*p counts hours and resets mins
 *Return: 0
 */
 void jack_bauer(void)
@@ -15,7 +15,7 @@ while (minutes <= 59)
 {
 minutes_remainder = minutes % 10;
 hours_remainder = hours % 10;
-_putchar(hours / 10 +'0');
+_putchar(hours / 10 + '0');
 _putchar(hours_remainder + '0');
 _putchar(':');
 _putchar(minutes / 10 + '0');
