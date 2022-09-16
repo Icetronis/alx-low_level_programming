@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  *_isupper - checkes upper case
  * * @c: print int
